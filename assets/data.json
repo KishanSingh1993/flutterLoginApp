@@ -1,0 +1,31 @@
+{
+  "popularMeetups": [
+    {
+      "title": "Popular Meetups in India",
+      "image": "assets/1.jpg"
+    }
+  ],
+  "trendingPeople": [
+    {
+      "name": "Author",
+      "meetups": 1028,
+      "image": "assets/2.jpg"
+    },
+    {
+      "name": "Musician",
+      "meetups": 729,
+      "image": "assets/2.jpg"
+    }
+  ],
+  "topMeetups": [
+    {
+      "title": "Stanford Seed",
+      "image": "assets/1.jpg",
+      "actor": "Indian Actress",
+      "duration": "20 Mins",
+      "fees": "₹9,999",
+      "rating": 3.2,
+      "likes": 1034
+    }
+  ]
+}
